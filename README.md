@@ -9,5 +9,4 @@ DOSEN : SUFAJAR BUTSIANTO, S.Kom, M.Kom <br>
 
 Hasil Running
 
-![hasil running](hasil.jpg)
 

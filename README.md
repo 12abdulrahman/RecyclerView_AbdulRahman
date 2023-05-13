@@ -7,6 +7,5 @@ MATKUL : PEMROGRAMAN MOBILE <br>
 DOSEN : SUFAJAR BUTSIANTO, S.Kom, M.Kom <br>
 
 
-HASIL RUNNING
+Hasil Running
 
-![Hasil Running](gambar.jpeg)
